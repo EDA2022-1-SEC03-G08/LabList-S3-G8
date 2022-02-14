@@ -1,7 +1,7 @@
 #ISIS1225 - Estructura de un proyecto
 Integrantes:
-David Molina
-Juan David Salguero
+Juan David Salguero, J.salguero@uniandes.edu.co, 201923136
+David Molina De Diego, d.molinad@uniandes.edu.co, 202125176
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
